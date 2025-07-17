@@ -14,7 +14,7 @@
 **❓ How to use AFM**
 
 - *Open your terminal and use your preffered text editor to open .bashrc/.zshrc/config.fish*
-- *Type:* `alias afm='python3 /path/to/afm.py'
+- *Type:* `alias afm='python3 /path/to/afm.py'`
 
 ❗**AFM does not support directory navigation by design — it focuses on lightweight, direct operations within the current working directory.**
 
