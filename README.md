@@ -1,5 +1,5 @@
 # 🗄️ Advanced File Manager
-***"AFM is a lightweight terminal file manager inspired by command-driven interfaces like Vim."***
+***AFM is a lightweight terminal file manager with Vim-style keybindings.***
 
 ⭐ **Features:**
 - ***✔️Easy to use***
